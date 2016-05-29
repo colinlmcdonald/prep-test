@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "test": "mocha-phantomjs ./SpecRunner.html"
+  },
+  "dependencies": {
+    "mocha-phantomjs": "^4.0.2"
+  }
+}
