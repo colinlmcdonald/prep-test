@@ -1,6 +1,0 @@
-language: node_js
-node_js:
-  - "4"
-after_failure:
-# Prints *.actual files content
-- for i in $(find ./tests -name \*.actual); do echo "--- $i"; cat $i; echo; echo; done
