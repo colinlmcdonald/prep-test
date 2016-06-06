@@ -74,9 +74,9 @@ var oaklandStreets = {
 
 // 8. functions.invokeDudeWheresMyCar
 
-functions.invokeDudeWheresMyCar = function() {
+functions.invokeDudeWheresMyCar = function(name, location) {
   // Your code here...
-
+  return name + ' left the car in ' + location;
 };
 
 // 9. functions.invokeModulo
