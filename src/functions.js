@@ -18,7 +18,9 @@ functions.subtract = function(a, b) {
 };
 
 // 2. functions.modulo
-
+function.modulo = function(a, b) {
+  return a % b;
+};
 
 // Your code here...
 
@@ -26,7 +28,9 @@ functions.subtract = function(a, b) {
 // 3. functions.multiply.
 
 // Your code here...
-
+functions.multiply = function(a, b) {
+  return a + b;
+};
 
 
 // use the students array and oaklandStreets object for the following challenges:
