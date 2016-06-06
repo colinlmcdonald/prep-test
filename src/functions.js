@@ -18,7 +18,7 @@ functions.subtract = function(a, b) {
 };
 
 // 2. functions.modulo
-function.modulo = function(a, b) {
+functions.modulo = function(a, b) {
   return a % b;
 };
 
