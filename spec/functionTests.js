@@ -1,6 +1,6 @@
-var chai = require('../lib/chai.js')
+var chai = require('chai')
 var expect = chai.expect;
-var functions = require('../src/functions.js')
+var functions = require('./test_pr.js')
 
 describe('Functions Tests', function() {
 
