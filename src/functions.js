@@ -28,9 +28,9 @@ functions.modulo = function(a, b) {
 // 3. functions.multiply.
 
 // Your code here...
-functions.multilpy = function(a, b) {
-  return a * b;
-}
+functions.multiply = function(a, b) {
+  return a + b;
+};
 
 
 // use the students array and oaklandStreets object for the following challenges:
